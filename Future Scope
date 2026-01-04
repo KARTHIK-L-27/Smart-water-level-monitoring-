@@ -1,0 +1,5 @@
+## Future Scope
+- Automatic pump ON/OFF control based on water level
+- IoT-based monitoring using ESP8266/ESP32
+- Mobile app alerts for overflow and low water level
+- Data logging for water usage analysis
